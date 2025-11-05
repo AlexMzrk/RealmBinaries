@@ -63,3 +63,10 @@ fastlane/screenshots/**/*.png
 fastlane/test_output
 
 realm-swift/
+
+# Ignore everything under Download (including any subfolders)
+Download/**
+
+# But keep only top level .zip and .txt
+!Download/*.[Zz][Ii][Pp]
+!Download/*.[Tt][Xx][Tt]

@@ -3,7 +3,7 @@
 # Build ONLY the platforms you want using Realm's build.sh,
 # then (optionally) code-sign the produced XCFrameworks, zip them,
 # and print SwiftPM checksums.
-# Version names include Xcode version in filename (e.g., Realm.xcframework@26.1.spm.zip)
+# Version names include Xcode version in filename (e.g., Realm.xcframework@26.2.spm.zip)
 # Creates checksums.txt file with filename and checksum
 # Copies all files to $SCRIPT_START_DIR/Download folder (creates it if doesn't exist)
 

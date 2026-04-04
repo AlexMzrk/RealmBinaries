@@ -1,2 +1,2 @@
-Realm.xcframework@26.3.spm.zip 8fd330e340f3989b3a85219c805b6b88ff32757914a26e3df2076ce35cf12b54
-RealmSwift.xcframework@26.3.spm.zip 785504a3c4f4dd00ab950511b5eb36e67f89ccc7f99a4cc34b7e560d6344fb48
+Realm.xcframework@26.4.spm.zip 1c5b7282bae04c7a2b9bbbf832ace5a469874e52c2b9922da06710a7229a16d1
+RealmSwift.xcframework@26.4.spm.zip b7887ac1e0ecd4de881a4fd24cb5398ea78cd1968142cf47a4ede6636b951946
